@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, NodeJS, NestJs, Knex, PostgreSQL, MongoDB**
 
-- 📫 How to reach me **baxtiyorovsherozbek1111@gmail.com**
+- 📫 How to reach me **ayubxonraximov2008@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
