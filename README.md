@@ -1,12 +1,10 @@
 [![MasterHead](https://marketplace.canva.com/EAENvpM8lg0/1/0/1600w/canva-clean-work-place-linkedin-banner-ENugiXwwVkE.jpg)](https://sherozbek-dev.netlify.app/)
-<h1 align="center">Assalamu Alaikum 👋, I'm She'rozbek</h1>
+<h1 align="center">Assalamu Alaikum 👋, I'm Ayubxon</h1>
 <h3 align="center">A hardworking full stack developer from Uzbekistan</h3>
 
 - 🌱 I'm currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://sherozbek-dev.netlify.app/](https://sherozbek-dev.netlify.app/)
-
-- 📝 I regularly write articles on [https://t.me/baxtiyorov_blog](https://t.me/baxtiyorov_blog)
+- 📝 I regularly write articles on [https://t.me/ayubxonshaxsiyblog](https://t.me/ayubxonshaxsiyblog)
 
 - 💬 Ask me about **React, NodeJS, NestJs, Knex, PostgreSQL, MongoDB**
 
